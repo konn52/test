@@ -3,9 +3,9 @@ import Router from 'vue-router'
 
 import home from '@/components/HelloWorld'
 import introduction from '@/components/IntroDuction'
-import language from '@/components/Uselanguage'
+import language from '@/components/UselanguageSelect'
 import intern from '@/components/InTern'
-import portfolio from '@/components/jikoSyokai'
+import portfolio from '@/components/JIkoSyokai'
 
 // import Bootstrap
 import BootstrapVue from 'bootstrap-vue'
@@ -26,7 +26,7 @@ export default new Router({
       component: introduction
     },
     {
-      path: '/Uselanguage',
+      path: '/UselanguageSelect',
       component: language
     },
     {
@@ -34,7 +34,7 @@ export default new Router({
       component: intern
     },
     {
-      path: '/JikoSyokai',
+      path: '/JIkoSyokai',
       component: portfolio
     }
   ]

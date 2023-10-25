@@ -3,7 +3,7 @@
     <div class="container mt-5 px-5">
       <h1>INTERN</h1>
       <div class="list col-lg-10 my-4 mx-auto">
-        <h2 class="mb-3 pb-3">驕主悉邨碁ｨ�</h2>
+        <h2 class="mb-3 pb-3"></h2>
         <hr />
       </div>
     </div>

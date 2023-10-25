@@ -27,12 +27,12 @@
           <tbody>
             <tr>
               <td>Name</td>
-              <td>菴占陸迹�螽�
+              <td>
               </td>
             </tr>
             <tr>
               <td>University</td>
-              <td>HAL螟ｧ髦ｪ</td>
+              <td>HAL</td>
             </tr>
             <tr>
               <td>Age</td>

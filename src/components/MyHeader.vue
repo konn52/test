@@ -23,7 +23,7 @@
             </router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link px-4 py-3" to="/JikoSyokai">
+            <router-link class="nav-link px-4 py-3" to="/JIkoSyokai">
               Portfolio
             </router-link>
           </li>
