@@ -27,12 +27,12 @@
           <tbody>
             <tr>
               <td>Name</td>
-              <td>
+              <td>佐藤瑠威
               </td>
             </tr>
             <tr>
               <td>University</td>
-              <td>HAL</td>
+              <td>HAL大阪</td>
             </tr>
             <tr>
               <td>Age</td>

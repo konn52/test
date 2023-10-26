@@ -3,7 +3,9 @@
     <div class="container mt-5 px-5">
       <h1>INTERN</h1>
       <div class="list col-lg-10 my-4 mx-auto">
-        <h2 class="mb-3 pb-3"></h2>
+        <h2 class="mb-3 pb-3">過去経験</h2>
+        株式会社スパイラルのインターンにてグループで会員
+        パッケージに関するwebページの作成を行いました
         <hr />
       </div>
     </div>

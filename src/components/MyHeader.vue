@@ -5,25 +5,25 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mx-auto">
           <li class="nav-item">
-            <router-link class="nav-link px-4 py-3" to="/">HelloWorld</router-link>
+            <router-link class="nav-link px-4 py-3" to="/">Home</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link px-4 py-3" to="/IntroDuction">
+            <router-link class="nav-link px-4 py-3" to="/introduction">
               Introduction
             </router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link px-4 py-3" to="/Uselanguage">
+            <router-link class="nav-link px-4 py-3" to="/language">
               Used Languages
             </router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link px-4 py-3" to="/InTern">
+            <router-link class="nav-link px-4 py-3" to="/intern">
               Intern Experience
             </router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link px-4 py-3" to="/JIkoSyokai">
+            <router-link class="nav-link px-4 py-3" to="/portfolio">
               Portfolio
             </router-link>
           </li>
@@ -32,25 +32,25 @@
       <!-- sp -->
       <ul class="sp px-5">
         <li>
-          <router-link class="ancar text-white" to="/">HelloWorld</router-link>
+          <router-link class="ancar text-white" to="/">Home</router-link>
         </li>
         <li>
-          <router-link class="ancar text-white" to="/IntroDuction">
+          <router-link class="ancar text-white" to="/introduction">
             Introduction
           </router-link>
         </li>
         <li>
-          <router-link class="ancar text-white" to="/Uselanguage">
+          <router-link class="ancar text-white" to="/language">
             Used Languages & Library
           </router-link>
         </li>
         <li>
-          <router-link class="ancar text-white" to="/InTern">
+          <router-link class="ancar text-white" to="/intern">
             Intern Experience
           </router-link>
         </li>
         <li>
-          <router-link class="ancar text-white" to="/JikoSyokai">
+          <router-link class="ancar text-white" to="/portfolio">
             Portfolio
           </router-link>
         </li>
