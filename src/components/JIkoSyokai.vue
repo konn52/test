@@ -9,7 +9,7 @@
         href="https://twitter.com/ushimasa08"
         class="btn text-white mt-4 twitter"
       >
-        Twitter縺ｸ
+       
       </a>
     </div>
   </div>
